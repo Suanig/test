@@ -1,4 +1,5 @@
-## HomeWork
+# HomeWork
 
-# Начало работы с GitHub
+## Начало работы с GitHub
 
+Редактирование текста напрямую в GitHub
